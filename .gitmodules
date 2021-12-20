@@ -1,0 +1,6 @@
+[submodule "test-cobrodigital-frontend"]
+	path = test-cobrodigital-frontend
+	url = https://github.com/RonaldRBB/test-cobrodigital-frontend.git
+[submodule "test-cobrodigital-api"]
+	path = test-cobrodigital-api
+	url = https://github.com/RonaldRBB/test-cobrodigital-api.git
